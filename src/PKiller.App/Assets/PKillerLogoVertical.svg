@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 280" width="240" height="280">
+  <title>PKiller</title>
+  <rect x="60" y="30" width="120" height="120" rx="24" fill="#1F2937"/>
+  <rect x="78" y="51" width="84" height="12" rx="3" fill="#9CA3AF"/>
+  <rect x="78" y="75" width="60" height="12" rx="3" fill="#6B7280"/>
+  <circle cx="150" cy="123" r="24" fill="#E24B4A"/>
+  <path d="M141 114L159 132M159 114L141 132" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="120" y="205" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700"><tspan fill="#6B7280">P</tspan><tspan fill="#E24B4A">Killer</tspan></text>
+  <text x="120" y="236" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#6B7280">Stop any process</text>
+</svg>

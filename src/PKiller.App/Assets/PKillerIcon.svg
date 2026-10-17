@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>PKiller icon</title>
+  <rect width="512" height="512" rx="112" fill="#1F2937"/>
+  <rect x="80" y="96" width="340" height="48" rx="12" fill="#9CA3AF"/>
+  <rect x="80" y="192" width="240" height="48" rx="12" fill="#6B7280"/>
+  <circle cx="364" cy="368" r="96" fill="#E24B4A"/>
+  <path d="M328 332L400 404M400 332L328 404" fill="none" stroke="#FFFFFF" stroke-width="20" stroke-linecap="round"/>
+</svg>

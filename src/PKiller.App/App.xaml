@@ -1,0 +1,17 @@
+<Application
+    x:Class="PKiller.App.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.ThemeDictionaries>
+                <ResourceDictionary x:Key="Default">
+                    <SolidColorBrush x:Key="AppSurfaceBrush" Color="#FF202020" />
+                    <SolidColorBrush x:Key="AppCardBrush" Color="#FF2B2B2B" />
+                    <SolidColorBrush x:Key="AppAccentBrush" Color="#FF60CDFF" />
+                    <SolidColorBrush x:Key="AppTextMutedBrush" Color="#FFAAAAAA" />
+                </ResourceDictionary>
+            </ResourceDictionary.ThemeDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

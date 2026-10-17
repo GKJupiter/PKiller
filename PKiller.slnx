@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PKiller.App/PKiller.App.csproj" />
+    <Project Path="src/PKiller.Core/PKiller.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PKiller.Tests/PKiller.Tests.csproj" />
+  </Folder>
+</Solution>
